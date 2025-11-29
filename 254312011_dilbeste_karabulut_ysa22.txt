@@ -2931,17 +2931,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 153,
           "referenced_widgets": [
-            "3a8ee09c378b497b9c29dd8e11d756d2",
-            "3d8977987a254aff93355bfa6d3340c3",
-            "60a1e5135d90417f88c780f364c51031",
-            "7ec62d605f95444793b64d7857fb54dc",
-            "1a009e3fbb5b40fc80b1aa228d8ab909",
-            "f9f491f7e7e1449caeb22875db919cfb",
-            "b09c3f6bcd0a4567a1eb498bc353eb09",
-            "38d52e4da3174d85a85281b47b7fd4be",
-            "e7d8003c8aa245c8969aa89a1ddabd0a",
-            "aa43d809a9f842e9baf98807896f445b",
-            "fe18f62e22074c8ab3228158b13d6070"
+           
           ]
         },
         "id": "k9BNffW4wWeu",
@@ -2963,9 +2953,7 @@
               "  0%|          | 0/57 [00:00<?, ?it/s]"
             ],
             "application/vnd.jupyter.widget-view+json": {
-              "version_major": 2,
-              "version_minor": 0,
-              "model_id": "3a8ee09c378b497b9c29dd8e11d756d2"
+              
             }
           },
           "metadata": {}
